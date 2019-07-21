@@ -25,3 +25,9 @@ References:
 
 Update: a new bug arrive: after putting 3 gems into the door, it opens but do not go to the next level. This is new, before testing has been success. Further fix needed.
 Google Drive link for full project: https://drive.google.com/open?id=19A7Y1ch1wGrm6WfUDiFBm_NSnfCUfST3
+Game files Drive link: https://drive.google.com/open?id=1Qt-_3QR6FFvZDAII85OjLVwr1eCu314M
+
+Update: 22/7/2019 12:17 AM
+I've fixed the bug mentioned above, but as I'm having problem pushing that onto this Github link and overwrite the old one, 
+I've put the files (with a poster) onto Google Drive with the link above. The game should work fine now, I'm sorry for the late update and
+this situation. The version on Github still have bug (the level will complete, but will not load the next one), the fully working is on Drive.
